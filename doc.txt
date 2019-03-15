@@ -1,0 +1,16 @@
+
+Functionanlity requirements
+- Authorization
+- Jobs search and application
+- Social network
+- Forum (For asking an answering questions)
+- Profile management
+
+Authorization
+Anyone visiting the system for the first time would have view functionalities, since the goal of the system is to connect people with opportunities, in order for the system to be useful people would
+have to register an account. If a person doesn't register they would be refered to as guests. Guests can only view the home page which contains details about what value the system is adding to its
+users, the guest can search for jobs, people and popular topics but the guest would be given just 5 search results instead of a full comprehensive list. This approach was taken so that the guest
+can have a glimpse of the value that the system provides and the guest immediately knows exactly what to expect when registering. The guest can not be able to apply for a job 
+
+
+Non Functionanlity requirements
